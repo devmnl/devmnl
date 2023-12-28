@@ -16,7 +16,7 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="Megumin" height="128" width="148" src="https://c.tenor.com/LKUn-5uzK4UAAAAM/megumin-anime.gif">
+  <img align="right" alt="Megumin" height="128" width="148" src="https://tenor.com/bUjjk.gif">
 </div>
   
   ##
