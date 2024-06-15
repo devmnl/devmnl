@@ -23,17 +23,20 @@
 ## Contact Me 📫
 
 <div align="center">
-  <a href="https://meu-linktree-chi.vercel.app/">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
+  <a href="https://meu-linktree-chi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/manoel-franco-fernandes-neto-6260a0281/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/5511932590460" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://t.me/SEU_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-%2300B2EE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
 
-##
 
-<div align="center">
-  ![Snake animation](https://github.com/svynct/svynct/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
