@@ -36,9 +36,6 @@
     </a>
   </div>
 
-  <div>
-    ![Snake animation](https://github.com/svynct/svynct/blob/output/github-contribution-grid-snake.svg)
-  </div>
 </div>
 
 
