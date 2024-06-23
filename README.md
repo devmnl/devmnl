@@ -46,6 +46,9 @@
     <a href="https://t.me/+5511932590460" target="_blank">
       <img src="https://img.shields.io/badge/-Telegram-%2300B2EE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
+        <a href="https://x.com/SEU_USUARIO" target="_blank">
+      <img src="https://img.shields.io/badge/-X-%2300acee?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
+    </a>
   </div>
 
 </div>
