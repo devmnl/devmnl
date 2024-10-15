@@ -2,7 +2,9 @@
 
 I'm a software engineering student with a passion for technology and software development. 
 
-[![My logo](https://github.com/devmnl/devmnl/blob/main/logo-m.png?raw=true)](https://manoel-franco.vercel.app/)
+<a href="https://manoel-franco.vercel.app/">
+  <img src="https://github.com/devmnl/devmnl/blob/main/logo-m.png?raw=true" alt="My logo" width="150"/> <!-- Ajuste o valor de width conforme necessário -->
+</a>
 
 ### 💻 Skills
 
