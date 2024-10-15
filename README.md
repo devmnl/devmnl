@@ -29,8 +29,8 @@ Here are some of the technologies I'm proficient in:
 
 I'm always eager to meet new people and explore opportunities for collaboration. Feel free to reach out if you'd like to connect!
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- 📧 Email: [your-email@example.com](dev.mnlfranco@gmail.com)
+- 🌐 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/devmnl/)
 
 Thank you for visiting my profile! ✨
 
