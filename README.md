@@ -2,7 +2,7 @@
 
 I'm a software engineering student with a passion for technology and software development. 
 
-[![My Logo](your-logo-url-here)]([your-website-url-here](https://manoel-franco.vercel.app/))
+[![My Logo]([your-logo-url-here](https://github.com/devmnl/devmnl/blob/main/logo-m.png))]([your-website-url-here](https://manoel-franco.vercel.app/))
 
 ### 💻 Skills
 
