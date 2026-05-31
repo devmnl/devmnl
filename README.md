@@ -33,11 +33,7 @@ Tools:
 - Learning software architecture
 - Preparing for global software engineering opportunities
 
-## 📫 Contact
 
-LinkedIn: ...
-Portfolio: ...
-Email: ...
 
 
 
