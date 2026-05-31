@@ -1,11 +1,43 @@
-# 👋 Hi, I'm Manoel Franco!
+# Hi, I'm Manoel Franco 👋
 
-I'm a software engineering student with a passion for technology and software development. 
+Software Engineer focused on building full stack applications with Java, React and Python.
 
-<a href="https://manoel-franco.vercel.app/">
-  <img src="https://github.com/devmnl/devmnl/blob/main/logo-m.png?raw=true" alt="My logo" width="150"/> <!-- Ajuste o valor de width conforme necessário -->
-</a>
-<p style="text-align: center; font-style: italic; color: gray;">Click the logo to visit my website!</p>
+## 🚀 Tech Stack
+
+Backend:
+- Java
+- Spring Boot
+- Python
+- REST APIs
+
+Frontend:
+- React
+- JavaScript
+- HTML
+- CSS
+
+Database:
+- PostgreSQL
+- MySQL
+
+Tools:
+- Git
+- Docker
+- Linux
+- GitHub Actions
+
+## 📌 Current Goals
+
+- Deepening Java and Spring Boot expertise
+- Building complete full stack applications
+- Learning software architecture
+- Preparing for global software engineering opportunities
+
+## 📫 Contact
+
+LinkedIn: ...
+Portfolio: ...
+Email: ...
 
 
 
