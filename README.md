@@ -5,15 +5,13 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/[seu-username]">
+  <a href="https://github.com/[devmnl]">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/[seu-linkedin]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/[seu-twitter]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+
 </p>
 
 <br>
@@ -38,33 +36,7 @@
 
 <br>
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[seu-username]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-username]&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<br>
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/[seu-username]/[projeto-1]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[seu-username]&repo=[projeto-1]&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/[seu-username]/[projeto-2]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[seu-username]&repo=[projeto-2]&theme=tokyonight" />
-  </a>
-</div>
-
-<br><br>
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[seu-username]&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Troféus GitHub" />
-</div>
 
 <br>
 
@@ -83,13 +55,7 @@
 
 <br><br>
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[seu-username]&label=Profile%20views&color=0e75b6&style=flat" alt="Contador de visualizações" />
-  <br><br>
-  <i>Feito com ❤️ usando Markdown e muita criatividade!</i>
-</div>
 
 
 
