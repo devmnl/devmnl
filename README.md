@@ -18,7 +18,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
-- 🎓 Estudante de Ciência da Computação
+- 🎓 Engenheiro de Software
 - 💼 Desenvolvedor Full-Stack
 - 🌱 Sempre aprendendo novas tecnologias
 - 💡 Apaixonado por open source
@@ -45,7 +45,7 @@
   <br><br>
   
   <a href="https://linkedin.com/in/devmnl/">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.svgrepo.com/show/157006/linkedin.svg)"/>
+    <img src="(https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>
   </a>
 </div>
 
